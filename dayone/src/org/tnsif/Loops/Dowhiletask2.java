@@ -19,6 +19,7 @@ public class Dowhiletask2 {
 		}while(num>0);
 		
 		System.out.println("The no of digits in the Given number is:"+" "+count);
+		sc.close();
 
 	}
 
