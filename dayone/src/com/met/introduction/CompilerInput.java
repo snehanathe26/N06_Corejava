@@ -8,7 +8,7 @@ public class CompilerInput {
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter the value of the string");
 		String str1=sc.next();
-		String str2=sc.next();
+		String str2=sc.next() ;
 		System.out.println("The concatination of the strings"+ str1+str2);
 	
 		// TODO Auto-generated method stub
