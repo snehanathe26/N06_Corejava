@@ -22,7 +22,7 @@ public class NestedIf {
 				}
 			}
 			else
-			{
+			{  
 				System.out.println("the person is not eligible for the bunjee jumping");
 			}
 		}
